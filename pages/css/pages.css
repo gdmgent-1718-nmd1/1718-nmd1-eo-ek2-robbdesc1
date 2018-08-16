@@ -17,10 +17,13 @@ img {
 
 /* Voeg jouw css hieraan toe */
 
-#Kleur1 {
-    background-color:#5BDCCB;
-}
-#kleuren {
+
+
+
+.kleuren {
     width: 500px;
-    Height: 50px;
+    Height: 10px;
+}
+.Kleur1 {
+    background-color:#5BDCCB;
 }
