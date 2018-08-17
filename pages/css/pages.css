@@ -16,6 +16,8 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+
+
 .Nieuw {
     width: 120px;
     height: 35px;
@@ -46,6 +48,11 @@ img {
     width: 220px;
     color: white;
 }
-.nieuw:active {
-    color: black;
+a:active {
+    background-color: black;
+    color: white;
+
+}
+a:hover {
+    background-color: white;
 }
