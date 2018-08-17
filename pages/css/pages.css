@@ -16,14 +16,36 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
-
-
-
-
-.kleuren {
-    width: 500px;
-    Height: 10px;
+.Nieuw {
+    width: 120px;
+    height: 35px;
+    background-color: #8f8f8f;
 }
-.Kleur1 {
-    background-color:#5BDCCB;
+.Verwacht {
+    width: 120px;
+    height: 35px;
+    background-color: #8f8f8f;
+}
+.Categorie {
+    width: 250px;
+    background-color: #8f8f8f;
+}
+.Zoeken {
+    width: 300px;
+}
+.kleur1 {
+    background-color: #5bdccb;
+    width:220px;
+}
+.kleur2{
+    background-color: #8f8f8f;
+    width: 220px;
+}
+.kleur3 {
+    background-color: black;
+    width: 220px;
+    color: white;
+}
+.nieuw:active {
+    color: black;
 }
